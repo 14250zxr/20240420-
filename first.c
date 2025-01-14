@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main(void)
-{
-   while(1);
-   return 0;
-}
+int main(void){
+	printf("xx\n);
+	printf("xx\n);}
+
